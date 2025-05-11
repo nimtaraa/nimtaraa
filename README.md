@@ -14,7 +14,7 @@
 I’m a Computer Science student, currently halfway through my degree, with hands-on experience in app development. Right now, I’m expanding my skills by learning Spring Boot and Node.js, aiming to become a strong full-stack developer. I’m passionate about building creative, innovative, and user-friendly applications.
 - 📚 I’m currently learning ...
   - *Spring Boot*
-- 🚀 I’m excited to join new projects and collaborate with others.
+- 🚀 Excited to join new projects and collaborate with others.
 - ✔ Feel free to reach out! I’m always happy to share knowledge and help whenever I can.
 - Outside of tech, I enjoy socializing with friends, 🎬 watching movies and TV series, and 🎵 listening to music.
 - 📫 Reach out to me at: <a href="nim20021127@gmail.com">nim20021127@gmail.com</a>
