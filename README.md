@@ -7,6 +7,4 @@ I enjoy building end to end products from intuitive mobile interfaces to scalabl
 Outside of development, I enjoy exploring new tech trends, learning about applied AI, and building side projects that turn ideas into real, usable products.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/nimtara
-
-)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/nimtara)
